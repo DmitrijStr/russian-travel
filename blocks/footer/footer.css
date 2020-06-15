@@ -1,0 +1,30 @@
+@import url(./__item/footer__item.css);
+@import url(./__author/footer__author.css);
+@import url(./__link/footer__link.css);
+@import url(./__links/footer__links.css);
+
+.footer {
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  padding-bottom: 24px;
+}
+
+@media screen and (max-width: 1024px){
+  .footer {
+    padding: 0 48px 24px;
+  }
+}
+
+@media screen and (max-width: 768px){
+  .footer {  
+    padding: 0 24px 24px;
+  }
+}
+
+@media screen and (max-width: 320px){
+  .footer {
+    padding: 0 16px 24px;
+    flex-direction: column;
+  }
+}
