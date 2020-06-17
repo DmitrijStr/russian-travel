@@ -1,9 +1,9 @@
-.footer__item {
+.footer__links-item {
   display: inline-block;
 }
 
 @media screen and (max-width: 320px){
-  .footer__item {
+  .footer__links-item {
     display: block;
     padding-bottom: 32px;
   }

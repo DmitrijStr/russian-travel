@@ -1,6 +1,7 @@
-@import url(../desdescription/__title/description__title.css);
-@import url(../desdescription/__text/description__text.css);
-@import url(../desdescription/__digits/description__digits.css);
+@import url(./__title/description__title.css);
+@import url(./__text/description__text.css);
+@import url(./__digits/description__digits.css);
+@import url(./__digits/_type/description__digits_type_text.css);
 
 .description {
   padding-top: 92px;

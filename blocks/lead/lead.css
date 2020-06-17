@@ -1,7 +1,7 @@
-@import url(../lead/__title/lead__title.css);
-@import url(../lead/__subtitle/lead__subtitle.css);
-@import url(../lead/__main-illustration/lead__main-illustration.css);
-@import url(../lead/__text/lead__text.css);
+@import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__main-illustration/lead__main-illustration.css);
+@import url(./__text/lead__text.css);
 
 
 .lead {
