@@ -3,8 +3,8 @@
 @import url(./__photo/places__photo.css);
 @import url(./__paragraph/places__paragraph.css);
 @import url(./__links/places__links.css);
-@import url(./__links/_type/places__links_type_text.css);
-@import url(./__links/_type/places__links_type_link.css);
+@import url(./__link-title/places__link-title.css);
+@import url(./__link-URL/places__link-URL.css);
 
 .places {
   margin: 12px auto 0;

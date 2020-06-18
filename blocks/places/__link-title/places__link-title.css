@@ -1,6 +1,6 @@
-.places__links_type_text {
+.places__link-title {
   margin: 0;
-
+  padding-bottom: 12px;
   font-size: 12px;
   line-height: 12px;
   letter-spacing: 0.2em;
