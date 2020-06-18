@@ -4,9 +4,9 @@
   margin: auto;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.3);
+  transition: background-color 1s linear;
 }
 
 .cover__content:hover {
   background-color: rgba(0, 0, 0, 0.8);
-  transition: 1s linear;
 }

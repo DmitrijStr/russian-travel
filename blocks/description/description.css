@@ -1,7 +1,7 @@
 @import url(./__title/description__title.css);
 @import url(./__text/description__text.css);
 @import url(./__digits/description__digits.css);
-@import url(./__digits/_type/description__digits_type_text.css);
+@import url(./__span-accent/description__span-accent.css);
 
 .description {
   padding-top: 92px;
@@ -17,9 +17,10 @@
 
 @media screen and (max-width: 768px){
   .description {
-    max-width: 720px;
+    padding-right: 24px;
     padding-top: 88px;
     padding-left: 24px;
+    max-width: 100%;
   }
 }
 
@@ -27,5 +28,6 @@
   .description {
     padding-top: 64px;
     padding-left: 16px;
+    padding-right: 16px;  
   }
 }
